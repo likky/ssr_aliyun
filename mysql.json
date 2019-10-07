@@ -1,0 +1,13 @@
+{
+    "host": "47.240.72.105",
+    "port": 3306,
+    "user": "ss",
+    "password": "likky1415",
+    "db": "ss",
+    "node_id": 0,
+    "transfer_mul": 1.0,
+    "ssl_enable": 0,
+    "ssl_ca": "",
+    "ssl_cert": "",
+    "ssl_key": ""
+}
